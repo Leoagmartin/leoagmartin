@@ -1,5 +1,5 @@
 <h1 align="center">Hi, mi name is Leonardo Martin Aguirre</h1>
-<h3 align="center">I am a Full Stack Developer, i recently finish the bootcamp in Henry, and i am looking for a new challenges and i want to improve my programmer skills and grow as a developer</h3>
+<h3 align="center">I am looking for a new challenges and i want to improve my programmer skills and grow as a developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leoagmartin&label=Profile%20views&color=0e75b6&style=flat" alt="leoagmartin" /> </p>
 
